@@ -1,0 +1,2 @@
+# Airports-Ticket
+It’s a web based project. Developed an Airport Tickets Based Project. User can buy ticket with credit cards. User can buy tickets specific category seat from selected plane. There are two categories which are economic class and business class. In each class there are specific planes and their seats. User can select in which seat they want to buy. If their credit card balance is not compatible with which category seat they prefer, they can't buy their selected seats. 
